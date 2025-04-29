@@ -1,0 +1,14 @@
+C:\Studia\6\csharp\lista_1\lista_1\bin\Debug\net8.0\lista_1.exe
+C:\Studia\6\csharp\lista_1\lista_1\bin\Debug\net8.0\lista_1.deps.json
+C:\Studia\6\csharp\lista_1\lista_1\bin\Debug\net8.0\lista_1.runtimeconfig.json
+C:\Studia\6\csharp\lista_1\lista_1\bin\Debug\net8.0\lista_1.dll
+C:\Studia\6\csharp\lista_1\lista_1\bin\Debug\net8.0\lista_1.pdb
+C:\Studia\6\csharp\lista_1\lista_1\obj\Debug\net8.0\lista_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studia\6\csharp\lista_1\lista_1\obj\Debug\net8.0\lista_1.AssemblyInfoInputs.cache
+C:\Studia\6\csharp\lista_1\lista_1\obj\Debug\net8.0\lista_1.AssemblyInfo.cs
+C:\Studia\6\csharp\lista_1\lista_1\obj\Debug\net8.0\lista_1.csproj.CoreCompileInputs.cache
+C:\Studia\6\csharp\lista_1\lista_1\obj\Debug\net8.0\lista_1.dll
+C:\Studia\6\csharp\lista_1\lista_1\obj\Debug\net8.0\refint\lista_1.dll
+C:\Studia\6\csharp\lista_1\lista_1\obj\Debug\net8.0\lista_1.pdb
+C:\Studia\6\csharp\lista_1\lista_1\obj\Debug\net8.0\lista_1.genruntimeconfig.cache
+C:\Studia\6\csharp\lista_1\lista_1\obj\Debug\net8.0\ref\lista_1.dll

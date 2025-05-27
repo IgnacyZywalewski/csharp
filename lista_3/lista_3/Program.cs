@@ -2,6 +2,22 @@
 using System.Collections.Generic;
 using System.Linq;
 
+public class Sasiad
+{
+    public string Nazwa { get; }
+    public double X { get; }
+    public double Y { get; }
+    public double Odleglosc { get; }
+
+    public Sasiad(string nazwa, double x, double y, double odleglosc)
+    {
+        Nazwa = nazwa;
+        X = x;
+        Y = y;
+        Odleglosc = odleglosc;
+    }
+}
+
 class Obserwator
 {
     public string Nazwa { get; }
@@ -13,7 +29,7 @@ class Obserwator
         X = x;
         Y = y;
     }
-    private record Sasiad(string Nazwa, double X, double Y, double Odleglosc);
+
     private List<Sasiad> sasiedzi = new();
     public void Nowy(object? sender, Obserwator nowy)
     {

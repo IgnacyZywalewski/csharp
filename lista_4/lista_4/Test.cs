@@ -1,10 +1,17 @@
 ﻿using HiddenLibrary;
 
-public class A { }
+namespace Test
+{
+    public class A { }
 
-public class B : A { }
+    public class B : A { }
 
-[Hidden]
-public class C : A { }
+    [Hidden]
+    public class C : A { }
 
-public class D : B { }
+    public class D : B { }
+
+    public class E : A { }
+
+    public class F : C { }
+}

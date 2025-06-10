@@ -8,9 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="HiddenLibrary">
-      <HintPath>bin\Debug\net8.0\HiddenLibrary.dll</HintPath>
-    </Reference>
     <Reference Include="Test">
       <HintPath>bin\Debug\net8.0\Test.dll</HintPath>
     </Reference>
